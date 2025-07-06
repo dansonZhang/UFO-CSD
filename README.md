@@ -1,6 +1,6 @@
 # UFO-CSD: Ultra-wide Field-of-view distorted camera light-Object Curve Segment Drawing
 **Status:** Paper under review (*Pattern Recognition*). Code & dataset will be released upon acceptance.
-![UFO-CSD Overview](./Figures/UFO-CSD_overview_EN.png)
+![UFO-CSD Overview](./Figures/UFO-CSD_workflow_EN.png)
 
 ## What It Solves
 
@@ -17,13 +17,17 @@ UFO-CSD rapidly extracts **complete, reliable curves from heavily distorted fish
 * **Real‑time on edge devices** – up to 10 × faster with higher detection rate and lower localization error than state‑of‑the‑art, even without a dedicated GPU.
 
 ## Visualizations
-<table>
+<table border="0" cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
-    <td><img src="./Figures/fish-lo-result.png" alt="Light-object curve detection in fisheye image" /></td>
-    <td><img src="./Figures/pano-lo-result.jpg" alt="Light-object curve detection in panoramic image" /></td>
+    <td style="border:none;">
+      <img src="./Figures/fish-lo-result.png" alt="Light-object curve detection in fisheye image" />
+    </td>
+    <td style="border:none;">
+      <img src="./Figures/pano-lo-result.jpg" alt="Light-object curve detection in panoramic image" />
+    </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td colspan="2" align="center" style="border:none;">
       <img src="./Figures/ZJSU-results.png" alt="Curve detection in ZJSU dataset" />
     </td>
   </tr>
