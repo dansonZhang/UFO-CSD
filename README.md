@@ -1,5 +1,4 @@
 # UFO-CSD: Ultra-wide Field-of-view distorted camera light-Object Curve Segment Drawing
-**Status:** Paper under review (*Pattern Recognition*). Code & dataset will be released upon acceptance.
 ![UFO-CSD Overview](./Figures/UFO-CSD_workflow_EN.png)
 
 ## What It Solves
@@ -34,8 +33,7 @@ UFO-CSD rapidly extracts **complete, reliable curves from heavily distorted fish
 </table>
 
 ## Coming Soon
-
-Installation guide will appear here after publication.
+Upon acceptance, we will open-source the code, dataset, and usage guide.
 
 ```bibtex
 @article{zhang2025ufocsd,
