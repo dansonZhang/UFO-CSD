@@ -33,7 +33,7 @@ UFO-CSD rapidly extracts **complete, reliable curves from heavily distorted fish
 </table>
 
 ## Coming Soon
-Upon acceptance, we will open-source the code, dataset, and usage guide.
+**Upon acceptance, we will open-source the code, dataset, and usage guide.**
 
 ```bibtex
 @article{zhang2025ufocsd,
